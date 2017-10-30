@@ -1,7 +1,7 @@
-SaPP: Style and Prototyping Pack
+S&PP: Style and Prototyping Pack
 =======
 
-SaPP is an Elm starter for quick web app prototyping. This starter uses [Webpack](https://webpack.js.org/) for bundling, [Basscss](http://basscss.com/) and [Google Material Icons](https://material.io/icons/) for UI scaffolding, [Github Pages](https://pages.github.com/) and [Surge.sh](http://surge.sh/) for easy deployment to testing environments, and [json server](https://github.com/typicode/json-server) for faking a RESTful API implementation.
+S&PP is an Elm starter for quick web app prototyping. This starter uses [Webpack](https://webpack.js.org/) for bundling, [Basscss](http://basscss.com/) and [Google Material Icons](https://material.io/icons/) for UI scaffolding, [Github Pages](https://pages.github.com/) and [Surge.sh](http://surge.sh/) for easy deployment to testing environments, and [json server](https://github.com/typicode/json-server) for faking a RESTful API implementation.
 
 # Table of Contents
 [Setup](#setup)  
@@ -137,4 +137,4 @@ init config =
 ## Preview
 
 View the current state of the seed:
-[Elm Web Starter](http://elm-web-starter.surge.sh/)
+[S&PP Demo](http://sapp.surge.sh/)
